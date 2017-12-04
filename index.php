@@ -6,7 +6,8 @@
 	<link rel="stylesheet" href="style/shadok.css" />
 </head>
 <body>
-<form action="controller.php" method="POST">
+<span><?php if (isset($_GET['mess'])) {echo $_GET['mess'];}?></span>
+<form action="profil.php" method="POST">
 	<fieldset>
 	<label>Pseudo : <br></label>
 	<input type="text" name="nom" required="true">
