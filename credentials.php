@@ -1,6 +1,6 @@
 <?php
 
-$user = idleshadok;
-$pass = idleshadok;
+$user = "idleshadok";
+$pass = "idleshadok";
 
 ?>
