@@ -1,0 +1,81 @@
+body {
+	background-color: #25282d;
+	color : white;
+}
+
+progress {
+	display: block;
+	color:black;
+	border: 1px solid black;
+ 	position: relative;
+ 	content: attr(data-label);
+}
+
+header {
+	width: 89.5%;
+	text-align: center;
+	border-style: dashed;
+	border-color: #0044ce;
+	color: red;
+}
+
+article {
+	width: 29%;
+	float:left;
+	position:relative;
+}
+
+aside {
+	position: relative;
+	float:center;
+	width: 60%;
+	top: 0;
+	left:30%;
+	min-height: 700px;
+}
+
+#bonusPompeurs {
+	position: absolute;
+}
+
+#buttPomp,#butAchPompeurs,#butAchCons,#butAchUni {
+	border-style: solid;
+	border-color: blue;
+}
+
+.mapompe,.pompeurs,.constructeurs,.universite {
+	border-style: groove;
+	height: 4cm;
+	margin-top: 0.1cm;
+	background-color: #62656b;
+}
+
+.mapompe {
+	margin-top: 1cm;
+	height: 3cm;
+}
+.anime, .amelio {
+	width: 100%;
+	position: absolute;
+	border-style: groove;
+	height: 7.8cm;
+	background-color: #62656b;
+}
+
+.anime {
+	margin-top: 1cm;
+}
+.amelio {
+	top: 8.9cm;
+	position: relative;
+}
+
+.shadok {
+	position: relative;
+	text-align: left;
+	left:0;
+}
+
+footer {
+	border-style: ridge;
+}

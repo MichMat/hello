@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="140mm"
+   height="149mm"
+   viewBox="0 0 95 149"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (unknown)"
+   sodipodi:docname="shadok.svg">
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+   <!--Corps du shadok à gauche -->
+  <g id="layer1"
+     transform="translate(0,-130)">
+   <!-- les trois poils sur le dessus de la tête -->
+   <!-- poil au milieu-->
+   <line stroke="#000000" stroke-width="0.5" x1="48" y1="151" x2="45" y2="136">
+   	<animate
+         attributeName="y1"
+         attributeType="XML"
+         fill="freeze"
+         from="151" to="173"
+         begin="0s"
+         dur="1s" 
+         repeatCount="indefinite"/>
+    <animate
+         attributeName="y2"
+         attributeType="XML"
+         fill="freeze"
+         from="136" to="158"
+         begin="0s"
+         dur="1s" 
+         repeatCount="indefinite"/>
+   </line>
+   <!-- poil de gauche -->
+   <line stroke="#000000" stroke-width="0.5" x1="48.5" y1="151" x2="50" y2="136">
+   	<animate
+         attributeName="y1"
+         attributeType="XML"
+         fill="freeze"
+         from="151" to="173"
+         begin="0s"
+         dur="1s" 
+         repeatCount="indefinite"/>
+    <animate
+         attributeName="y2"
+         attributeType="XML"
+         fill="freeze"
+         from="136" to="158"
+         begin="0s"
+         dur="1s" 
+         repeatCount="indefinite"/>
+   </line>
+   <!-- poil de droite-->
+   <line stroke="#000000" stroke-width="0.5" x1="47.5" y1="151" x2="40" y2="140">
+   	<animate
+         attributeName="y1"
+         attributeType="XML"
+         fill="freeze"
+         from="151" to="173"
+         begin="0s"
+         dur="1s" 
+         repeatCount="indefinite"/>
+    <animate
+         attributeName="y2"
+         attributeType="XML"
+         fill="freeze"
+         from="140" to="162"
+         begin="0s"
+         dur="1s" 
+         repeatCount="indefinite"/>
+   </line>
+    <ellipse
+       id="path3699"
+       cx="48" cy="192" rx="41" ry="41"
+       style="fill:#ff6600;stroke-width:0.8"
+       stroke="#000000">
+      <animate
+         attributeName="cy"
+         attributeType="XML"
+         fill="freeze"
+         from="192" to="214"
+         begin="0s"
+         dur="1s" 
+         repeatCount="indefinite"/>
+    </ellipse>
+    <!--Bras -->
+    <!-- à faire -->
+
+    <!-- Jambes -->
+    <!-- Jambe droite -->
+    <line stroke="#000000" stroke-width="0.8" 
+    	x1="44" y1="232" x2="44" y2="257">
+    	<animate
+    	attributeName="y1"
+    	attributeType="XML"
+    	fill="freeze"
+    	from="232" to="254"
+    	begin="0s"
+    	dur="1s"
+    	repeatCount="indefinite"/>
+    <animate
+    	attributeName="x2"
+    	attributeType="XML"
+    	fill="freeze"
+    	from="44" to="25"
+    	begin="0s"
+    	dur="1s"
+    	repeatCount="indefinite"/>
+    	<animate
+    	attributeName="y2"
+    	attributeType="XML"
+    	fill="freeze"
+    	from="257" to="262"
+    	begin="0s"
+    	dur="1s"
+    	repeatCount="indefinite"/>
+    </line>
+    	<line stroke="#000000" stroke-width="0.8" stroke-linecap="round"
+    	x1="44" y1="257" x2="44" y2="277">
+    		<animate
+    	attributeName="x1"
+    	attributeType="XML"
+    	fill="freeze"
+    	from="44" to="25"
+    	begin="0s"
+    	dur="1s"
+    	repeatCount="indefinite"/>
+    	<animate
+    	attributeName="y1"
+    	attributeType="XML"
+    	fill="freeze"
+    	from="257" to="262"
+    	begin="0s"
+    	dur="1s"
+    	repeatCount="indefinite"/>
+    	</line>
+    <!-- Jambe gauche -->
+    <line stroke="#000000" stroke-width="0.8" 
+    	x1="52" y1="232" x2="52" y2="257">
+    	<animate
+    	attributeName="y1"
+    	attributeType="XML"
+    	fill="freeze"
+    	from="232" to="254"
+    	begin="0s"
+    	dur="1s"
+    	repeatCount="indefinite"/>
+    <animate
+    	attributeName="x2"
+    	attributeType="XML"
+    	fill="freeze"
+    	from="52" to="71"
+    	begin="0s"
+    	dur="1s"
+    	repeatCount="indefinite"/>
+    	<animate
+    	attributeName="y2"
+    	attributeType="XML"
+    	fill="freeze"
+    	from="257" to="262"
+    	begin="0s"
+    	dur="1s"
+    	repeatCount="indefinite"/>
+    </line>
+    	<line stroke="#000000" stroke-width="0.8" stroke-linecap="round"
+    	x1="52" y1="257" x2="52" y2="277">
+    		<animate
+    	attributeName="x1"
+    	attributeType="XML"
+    	fill="freeze"
+    	from="52" to="71"
+    	begin="0s"
+    	dur="1s"
+    	repeatCount="indefinite"/>
+    	<animate
+    	attributeName="y1"
+    	attributeType="XML"
+    	fill="freeze"
+    	from="257" to="262"
+    	begin="0s"
+    	dur="1s"
+    	repeatCount="indefinite"/>
+    	</line>
+     <!-- Bec -->
+     <polygon
+      fill-opacity="0"
+      stroke="#000000"
+       stroke-width="0.5"
+       points="47,208 33,155 61,155"
+       ><animate
+         attributeName="points"
+         attributeType="XML"
+         fill="freeze"
+         from="47,208 33,155 61,155"
+         to="47,230 33,177 61,177"
+         begin="0s"
+         dur="1s"
+		repeatCount="indefinite" /> </polygon>
+		<!-- On cache le haut du triangle qui forme le bec avec une ligne -->
+         <line stroke="#ff6600" stroke-width="1" x1="33.5" y1="155" x2="60.5" y2="155" > <animate
+         attributeName="y1"
+         attributeType="XML"
+         fill="freeze"
+         from="155" to="177"
+         begin="0s"
+         dur="1s"
+		repeatCount="indefinite" />
+       <animate
+         attributeName="y2"
+         attributeType="XML"
+         fill="freeze"
+         from="155" to="177"
+         begin="0s"
+         dur="1s"
+		repeatCount="indefinite" /></line>
+		<!-- Yeux -->
+    <circle
+       style="fill:#e6e6e6;stroke-width:0.5" stroke="#000000"
+       id="path3701"
+       cx="42"
+       cy="159"
+       r="6">
+      <animate
+         attributeName="cy"
+         attributeType="XML"
+         fill="freeze"
+         from="159" to="181"
+         begin="0s"
+         dur="1s"
+		repeatCount="indefinite" />
+    </circle>
+    <circle
+       style="fill:#e6e6e6;stroke-width:0.5" stroke="#000000"
+       id="path3701-3"
+       cx="52"
+       cy="159"
+       r="6">
+      <animate
+         attributeName="cy"
+         attributeType="XML"
+         fill="freeze"
+         from="159" to="181"
+         begin="0s"
+         dur="1s"
+		repeatCount="indefinite" />
+    </circle>
+    <!-- Pupilles -->
+    <circle
+       style="fill:#000000;stroke-width:0.26458332"
+       id="path70"
+       cx="42"
+       cy="158"
+       r="2">
+      <animate
+         attributeName="cy"
+         attributeType="XML"
+         fill="freeze"
+         from="158" to="180"
+         begin="0s"
+         dur="1s"
+		repeatCount="indefinite" />
+    </circle>
+    <circle
+       style="fill:#000000;stroke-width:0.26458332"
+       id="path70-3"
+       cx="52"
+       cy="158"
+       r="2">
+      <animate
+         attributeName="cy"
+         attributeType="XML"
+         fill="freeze"
+         from="158" to="180"
+         begin="0s"
+         dur="1s"
+		repeatCount="indefinite" />
+    </circle>
+  </g>
+  <!-- Pompe -->
+  <g id="layer1"
+     transform="translate(0,-130)">
+     <!--poignée de la pompe-->
+     	<line stroke="#000000" stroke-width="1"
+     		x1="40" y1="215" x2="56" y2="215">
+ 			<animate 
+				attributeName="y1"
+		        attributeType="XML"
+		        fill="freeze"
+		        from="215" to="237"
+		        begin="0s"
+		        dur="1s"
+				repeatCount="indefinite"
+			/>
+			<animate 
+				attributeName="y2"
+		        attributeType="XML"
+		        fill="freeze"
+		        from="215" to="237"
+		        begin="0s"
+		        dur="1s"
+				repeatCount="indefinite"
+			/>
+     	</line>
+     	<!-- Tige de la pompe-->
+     	<line stroke="#000000" stroke-width="1"
+     		x1="48" y1="215" x2="48" y2="236">
+     		<animate 
+				attributeName="y1"
+		        attributeType="XML"
+		        fill="freeze"
+		        from="215" to="237"
+		        begin="0s"
+		        dur="1s"
+				repeatCount="indefinite"
+			/>
+			<animate 
+				attributeName="y2"
+		        attributeType="XML"
+		        fill="freeze"
+		        from="236" to="258"
+		        begin="0s"
+		        dur="1s"
+				repeatCount="indefinite"
+			/> 
+		</line>
+		<rect stroke="#000000" stroke-width="1" fill="#2d2f33"
+			x="42" y="237" height="40" width="12"></rect>
+
+  </g>
+</svg>
